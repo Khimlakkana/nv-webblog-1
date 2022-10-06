@@ -10,7 +10,7 @@
     </div>
 </template>
 <script>
-import AuthenService from '@/services/AuthenService'
+import AuthenService from '@/services/AuthenService';
 
 export default {
     data () {
